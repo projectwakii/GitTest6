@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         print("This is commit A.")
+        
+        print("This is commit A of branch 1.")
     }
 
     override func didReceiveMemoryWarning() {
