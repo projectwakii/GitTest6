@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         
         print("This is commit A of branch 1.")
         print("This is commit B of branch 1.")
+        
+        print("This is commit A of branch B.")
     }
 
     override func didReceiveMemoryWarning() {
